@@ -7,6 +7,6 @@ Functionality includes adding and removing list items, individually or via the "
 "Enter" creates a list item and the input field is refocussed in order to help minimise needless user inputs.
 The header is also fixed to the top of the viewport, and scrolls with the user in order to allow creating entries while viewing a long list of items.
 
-![](./PC-screenshot.ppg)
+![](./PC-screenshot.png)
 
 ![](./Mobile-screenshot.png)
